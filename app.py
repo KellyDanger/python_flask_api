@@ -8,5 +8,3 @@ CORS(app)
 def say_hi():
   return {'result': "hellooowwwworld"}
 
-if __name__ == "__main__":
-  app.run(debug=True)
